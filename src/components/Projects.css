@@ -1,0 +1,40 @@
+/* Projects.css */
+
+.projects-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+  }
+  
+  .tab-container {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .tab {
+    padding: 10px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100px;
+    text-align: center;
+    transition: background-color 0.3s ease;
+  }
+  
+  .tab:hover {
+    background-color: #f0f0f0;
+  }
+  
+  .tab.active {
+    background-color: #4caf50;
+    color: #fff;
+  }
+  
+  /* Additional styles for centered project cards */
+  .project-tab {
+    display: flex;
+    justify-content: center;
+  }
+  

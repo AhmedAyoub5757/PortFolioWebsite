@@ -1,0 +1,18 @@
+/* CircularProgressBar.css */
+.progress-ring {
+  transform: rotate(0);
+  transform-origin: center;
+  transition: transform 0.5s ease;
+}
+
+.progress-ring-circle {
+  stroke: #3498db;
+  stroke-linecap: round;
+  transition: stroke-dasharray 0.3s ease;
+}
+
+.progress-text {
+  fill: #333;
+  font-size: 0.8rem;
+  font-weight: bold;
+}
