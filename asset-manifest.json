@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/PortFolioWebsite/static/css/main.3afa3fee.css",
+    "main.js": "/PortFolioWebsite/static/js/main.edfce73c.js",
+    "static/js/787.861fdc3f.chunk.js": "/PortFolioWebsite/static/js/787.861fdc3f.chunk.js",
+    "static/media/banner-bg.jpg": "/PortFolioWebsite/static/media/banner-bg.c150bea65685e0fc6699.jpg",
+    "static/media/shopping-website.jpg": "/PortFolioWebsite/static/media/shopping-website.7c1e38046f5ebb78e726.jpg",
+    "static/media/header-img.png": "/PortFolioWebsite/static/media/header-img.0739a36ac9b275638e2e.png",
+    "static/media/ahmed-web-dev-cv.pdf": "/PortFolioWebsite/static/media/ahmed-web-dev-cv.c94cc39c3e57e9c06b4b.pdf",
+    "static/media/googlelogin.jpeg": "/PortFolioWebsite/static/media/googlelogin.4937abffaff31554d708.jpeg",
+    "static/media/crud.webp": "/PortFolioWebsite/static/media/crud.ee2e1270c30f4d1cbf8b.webp",
+    "static/media/multiimage.webp": "/PortFolioWebsite/static/media/multiimage.14be63425f86c017dcaa.webp",
+    "static/media/contact-img.svg": "/PortFolioWebsite/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/quizz-app.png": "/PortFolioWebsite/static/media/quizz-app.a48bcff87351b676531c.png",
+    "static/media/logo.png": "/PortFolioWebsite/static/media/logo.9e96f4929b24215356b7.png",
+    "static/media/pdf-convertor.svg": "/PortFolioWebsite/static/media/pdf-convertor.d359ec34f06ad41f9004d732b1f16873.svg",
+    "static/media/multiuserlogin.jpg": "/PortFolioWebsite/static/media/multiuserlogin.2856d7e5e14a357d4e2c.jpg",
+    "static/media/revicons.eot": "/PortFolioWebsite/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/PortFolioWebsite/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/PortFolioWebsite/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/nav-icon3.svg": "/PortFolioWebsite/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "index.html": "/PortFolioWebsite/index.html",
+    "static/media/nav-icon1.svg": "/PortFolioWebsite/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/nav-icon2.svg": "/PortFolioWebsite/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.3afa3fee.css.map": "/PortFolioWebsite/static/css/main.3afa3fee.css.map",
+    "main.edfce73c.js.map": "/PortFolioWebsite/static/js/main.edfce73c.js.map",
+    "787.861fdc3f.chunk.js.map": "/PortFolioWebsite/static/js/787.861fdc3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3afa3fee.css",
+    "static/js/main.edfce73c.js"
+  ]
+}
