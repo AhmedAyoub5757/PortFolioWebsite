@@ -93,7 +93,7 @@ export const NavBar = () => {
                   <BsBox />
                 </a> */}
               </div>
-              <HashLink to="#f">
+              <HashLink to="#form">
                 <button className="vvd">
                   <span>Let’s Connect</span>
                 </button>

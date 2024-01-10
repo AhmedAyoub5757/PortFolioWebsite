@@ -30,7 +30,7 @@ const ContactForm = () => {
   };
   return (
     <>
-      <form id="f" ref={form} onSubmit={sendEmail} className={isSuccess ? 'success' : ''}>
+      <form id="form" ref={form} onSubmit={sendEmail} className={isSuccess ? 'success' : ''}>
         <label>Name</label>
         <input type="text" name="user_name" className="ti"/>
         <label>Email</label>
