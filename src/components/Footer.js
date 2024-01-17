@@ -18,7 +18,7 @@ export const Footer = () => {
               <a href="#"><img src={navIcon2} alt="Icon" /></a>
               <a href="#"><img src={navIcon3} alt="Icon" /></a>
             </div> */}
-            <p> © 2024 Your Name. All rights reserved. | Privacy Policy | Terms of Use</p>
+            <p> © 2024 Ahmed Ayoub. All rights reserved. | Privacy Policy | Terms of Use</p>
           </Col>
         </Row>
       </Container>
