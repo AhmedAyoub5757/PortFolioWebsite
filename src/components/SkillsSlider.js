@@ -9,12 +9,13 @@ const SkillSlide = ({ skill, level }) => {
   return (
     <div className="skill-slide">
       <h3>{skill}</h3>
-      <CircularProgressBar level={level} />
+      <CircularProgressBar style={{color:"white"}} level={level} />
     </div>
   );
 };
 
 const SkillsSlider = () => {
+
   const skillsData = [
     { skill: 'HTML', level: 95 },
     { skill: 'CSS', level: 75 },
@@ -64,9 +65,9 @@ const SkillsSlider = () => {
         <p className="skills-description">
          Proficient in a diverse set of programming languages and web development technologies, I bring a robust skill set to the table. From mastering the intricacies of C++, Java, HTML, CSS, and JavaScript to leveraging the power of PHP, jQuery, and MySQL for dynamic web applications, I seamlessly blend creativity with functionality. My toolkit extends to the responsive design framework Bootstrap and the versatile ReactJS library. As I continue to explore the realms of graphic design, I'm familiarizing myself with Adobe Illustrator and Photoshop to enhance the visual appeal of my creations. Dive into my portfolio to witness the fusion of code and creativity, backed by a strong foundation in both front-end and back-end technologies.
         </p>
-        <Carousel {...carouselSettings}>
+        <Carousel {...carouselSettings} id='c' >
           {skillsData.map((skillData, index) => (
-            <SkillSlide key={index} {...skillData} />
+            <SkillSlide key={index} {...skillData} style={{color:"white"}} />
           ))}
         </Carousel>
       </div>

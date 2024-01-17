@@ -6,17 +6,18 @@
   align-items: center;
   padding: 40px;
   background-color: #0000001a;
-  /* color: white; */
+  color: white;
 }
 
 .skills-box {
   width: 80vw;
   /* background-color: #fff; */
   /* background-color: rgb(65, 62, 62); */
-  background-color: rgba(63, 62, 62, 0.274);
+  background-color: rgba(63, 62, 62, 0);
   border-radius: 8px;
-  box-shadow: 0px 0px 20px rgba(36, 36, 36, 0.1);
+  box-shadow: 0px 0px 20px rgba(36, 36, 36, 0.596);
   padding: 20px;
+  color: white;
 }
 
 .skills-heading {
@@ -61,4 +62,7 @@
   color: #ffffff;
 }
 
+
 /* Additional styling as needed */
+
+

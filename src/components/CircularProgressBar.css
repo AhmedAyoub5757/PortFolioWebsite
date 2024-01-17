@@ -3,16 +3,18 @@
   transform: rotate(0);
   transform-origin: center;
   transition: transform 0.5s ease;
+  /* animation: ease-in-out 2s both 1.5ms infinite step-end forwards; */
 }
 
 .progress-ring-circle {
-  stroke: #3498db;
+  stroke: #398028;
   stroke-linecap: round;
   transition: stroke-dasharray 0.3s ease;
 }
 
 .progress-text {
-  fill: #333;
+  fill: #ffffff;
   font-size: 0.8rem;
   font-weight: bold;
+  padding: 4px;
 }

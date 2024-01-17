@@ -15,7 +15,7 @@ import { AiFillGithub } from 'react-icons/ai';
 
 const ProjectTab = ({ tabNumber }) => {
   const projects = getProjectsForTab(tabNumber);
-
+  // <h1 style={{color:"white"}}>Projects</h1>
   return (
     <div className="project-tab" id='pt'>
       {projects.map((project) => (

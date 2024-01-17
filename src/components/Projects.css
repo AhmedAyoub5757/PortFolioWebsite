@@ -5,6 +5,7 @@
     flex-direction: column;
     align-items: center;
     margin: 20px;
+    margin-bottom: 90px;
   }
   
   .tab-container {
@@ -25,6 +26,7 @@
   
   .tab:hover {
     background-color: #f0f0f0;
+    color: black;
   }
   
   .tab.active {
@@ -36,5 +38,6 @@
   .project-tab {
     display: flex;
     justify-content: center;
+    
   }
   
