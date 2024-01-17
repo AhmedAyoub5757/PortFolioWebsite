@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PortFolioWebsite/static/css/main.3afa3fee.css",
-    "main.js": "/PortFolioWebsite/static/js/main.0fa097c0.js",
+    "main.css": "/PortFolioWebsite/static/css/main.fcd81c73.css",
+    "main.js": "/PortFolioWebsite/static/js/main.c5632cd3.js",
     "static/js/787.861fdc3f.chunk.js": "/PortFolioWebsite/static/js/787.861fdc3f.chunk.js",
     "static/media/banner-bg.jpg": "/PortFolioWebsite/static/media/banner-bg.c150bea65685e0fc6699.jpg",
     "static/media/shopping-website.jpg": "/PortFolioWebsite/static/media/shopping-website.7c1e38046f5ebb78e726.jpg",
@@ -18,16 +18,14 @@
     "static/media/revicons.eot": "/PortFolioWebsite/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/PortFolioWebsite/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/PortFolioWebsite/static/media/revicons.e8746a624ed098489406.woff",
-    "static/media/nav-icon3.svg": "/PortFolioWebsite/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
     "index.html": "/PortFolioWebsite/index.html",
     "static/media/nav-icon1.svg": "/PortFolioWebsite/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
-    "static/media/nav-icon2.svg": "/PortFolioWebsite/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.3afa3fee.css.map": "/PortFolioWebsite/static/css/main.3afa3fee.css.map",
-    "main.0fa097c0.js.map": "/PortFolioWebsite/static/js/main.0fa097c0.js.map",
+    "main.fcd81c73.css.map": "/PortFolioWebsite/static/css/main.fcd81c73.css.map",
+    "main.c5632cd3.js.map": "/PortFolioWebsite/static/js/main.c5632cd3.js.map",
     "787.861fdc3f.chunk.js.map": "/PortFolioWebsite/static/js/787.861fdc3f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3afa3fee.css",
-    "static/js/main.0fa097c0.js"
+    "static/css/main.fcd81c73.css",
+    "static/js/main.c5632cd3.js"
   ]
 }
