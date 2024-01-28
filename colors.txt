@@ -1,0 +1,67 @@
+Backgrounds:
+
+Body Background: #FFFFFF (White)
+Section Background: #F5F5F5 (Silver)
+Footer Background: #4285F4 (Google Blue)
+
+
+Text and Fonts:
+
+Body Text: #333333 (Dark Gray)
+Heading Text: #4285F4 (Google Blue)
+Footer Text: #FFFFFF (White)
+
+
+Links:
+
+Link Color: #4285F4 (Google Blue)
+Visited Link Color: #34A853 (Google Green)
+Hover Link Color: #1A73E8 (Darker Blue)
+
+
+Buttons:
+
+Button Background: #4285F4 (Google Blue)
+Button Text: #FFFFFF (White)
+Button Hover Background: #1A73E8 (Darker Blue)
+Button Hover Text: #FFFFFF (White)
+
+
+Borders:
+
+Border Color: #E0E0E0 (Light Gray)
+
+
+Box Shadows:
+
+Box Shadow Color: rgba(66, 133, 244, 0.2)
+
+
+Form Elements:
+
+Input Field Background: #FFFFFF (White)
+Input Field Border: #BDBDBD (Light Gray)
+Input Field Text: #333333 (Dark Gray)
+Placeholder Text: #A5A5A5 (Lighter Gray)
+
+
+Navigation Bar:
+
+Navbar Background: #4285F4 (Google Blue)
+Navbar Text: #FFFFFF (White)
+Navbar Hover Background: #1A73E8 (Darker Blue)
+Navbar Hover Text: #FFFFFF (White)
+
+
+Footer:
+
+Footer Background: #4285F4 (Google Blue)
+Footer Text: #FFFFFF (White)
+
+
+Other Elements:
+
+Accent Color: #34A853 (Google Green)
+Success/Positive: #34A853 (Google Green)
+Warning/Negative: #EA4335 (Google Red)
+Info/Informational: #4285F4 (Google Blue)

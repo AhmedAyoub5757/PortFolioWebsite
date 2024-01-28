@@ -1,34 +1,55 @@
 /* CVDownloadButton.css */
+
 .cv-download-button {
-    position: relative;
-    padding: 10px 20px;
-    /* color: #fff; */
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    font-size: 16px;
-    overflow: hidden;
-    /* background-color: #000000; */
-    transition: background-position 0.3s ease;
-    /* color: white; */
-    border: 2px solid white;
-  }
-  
-  .cv-download-button::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: -100%;
-    width: 100%;
-    height: 100%;
-    background-color: #ffffff2c;
-    ;
-    /* color: black; */
-    transition: left 0.3s ease;
-  }
-  
-  .cv-download-button:hover::before {
-    left: 0;
-    
-  }
-  
+  position: relative;
+  padding: 10px 20px;
+  /* color: #fff; White text color for better contrast */
+  /* border: 1px solid #424242; */
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  overflow: hidden;
+  background-color: transparent; /* Dark background color for better contrast */
+  /* color: bisque; */
+  transition: background-position 0.3s ease;
+  border: 1px solid #4285F4; /* White border for better contrast */
+}
+
+/* .cv-download-button::before { */
+  /* color: white;
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: transparent;
+  /* color: black; */
+  /* background-color: #4285F4; White background for hover effect */
+  /* transition: left 0.3s ease;/ */
+  /* color: white; */
+  /* color: black; */
+/* } */ 
+/* .cv-download-button:hover{
+  color: black;
+} */
+
+/* .cv-download-button::after{
+  color: #fff;
+  background-color: #fff;
+} */
+
+.cv-download-button:hover{
+  background-color: #1A73E8;
+  /* transition: linear 2s ease; */
+  /* translate: 4 ; */
+  /* animation: 2s step-start 2 ease-in forwards both; */
+  border: 1px solid #4285F4;
+}
+.cv-download-button:hover::before {
+  /* color: white?; */
+  left: 0;
+  /* color: black; */
+}
+
+/* CVDownloadButton.css */

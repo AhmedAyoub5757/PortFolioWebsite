@@ -7,13 +7,13 @@
 }
 
 .progress-ring-circle {
-  stroke: #398028;
+  stroke:#34A853; /* White stroke color for better contrast */
   stroke-linecap: round;
   transition: stroke-dasharray 0.3s ease;
 }
 
 .progress-text {
-  fill: #ffffff;
+  fill: #333333; /* Gold fill color for the text */
   font-size: 0.8rem;
   font-weight: bold;
   padding: 4px;

@@ -63,7 +63,7 @@ const SkillsSlider = () => {
         <h1 className="skills-heading">Skills</h1>
         </center>
         <p className="skills-description">
-         Proficient in a diverse set of programming languages and web development technologies, I bring a robust skill set to the table. From mastering the intricacies of C++, Java, HTML, CSS, and JavaScript to leveraging the power of PHP, jQuery, and MySQL for dynamic web applications, I seamlessly blend creativity with functionality. My toolkit extends to the responsive design framework Bootstrap and the versatile ReactJS library. As I continue to explore the realms of graphic design, I'm familiarizing myself with Adobe Illustrator and Photoshop to enhance the visual appeal of my creations. Dive into my portfolio to witness the fusion of code and creativity, backed by a strong foundation in both front-end and back-end technologies.
+        Versatile developer skilled in C++, Java, HTML, CSS, JavaScript, PHP, Bootstrap, ReactJS, jQuery, MySQL. Strong foundation in front-end and back-end technologies, complemented by graphic design expertise in Adobe Illustrator and Photoshop.
         </p>
         <Carousel {...carouselSettings} id='c' >
           {skillsData.map((skillData, index) => (

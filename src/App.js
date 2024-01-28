@@ -13,6 +13,7 @@ import Projects from './components/MyProjects';
 // import ContactForm from './components/ContactForm'; // Adjust the path based on your file structure
 import ContactSection from './components/ContactSection'; // Adjust the path based on your file structure
 import SkillsSlider from './components/SkillsSlider';
+import AboutMe from './components/AboutMe';
 
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
     <NavBar/>
     <Banner/>
     {/* <Skills/> */}
+    <AboutMe/>
     <SkillsSlider/>
     {/* <Projects/> */}
     <Projects/>

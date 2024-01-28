@@ -1,0 +1,217 @@
+/* AboutMe.css */
+
+/* ... (Previous code remains the same) */
+
+/* .about-tab {
+    padding: 10px;
+    cursor: pointer;
+    background-color: #343a40; /* Dark background color for tabs */
+    /* color: #fff; White font color */
+    /* margin-bottom: 10px;
+    transition: background-color 0.3s;
+  } */
+   
+  .about-tab:hover {
+    /* color: green;   */
+    /* color: #2c3e50; */
+    /* color: #fff; */
+    /* color: #2c3e50; */
+    color: #1A73E8;
+    /* Slightly lighter background on hover */
+  }  
+  
+  /* .about-tab.active {
+    background-color: #007bff; /* Active tab color */
+  /* } */ 
+  
+  .tab-content {
+    margin-top: 20px;
+    /* row-gap: 800px; */
+    /* transition: 2s ease-in-out; */
+  }
+  
+  /* Styling for tab content */
+  /* .tab-content h2 {
+    color: #333;
+  }
+   */
+  /* .tab-content p {
+    color: #555;
+  }
+   */
+/* AboutMe.css */
+
+/* .tab-content-inner {
+    opacity: 0;
+  }
+  
+  .animate__fadeIn {
+    animation: fadeIn 0.5s ease-in-out forwards;
+  }
+  
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  } */
+/* AboutMe.css */
+
+.tab-content-inner {
+    opacity: 0;
+    transform: scale(0.9);
+    /* margin-top: 14px; */
+    /* transition: 2s ease-out; */
+  }
+  
+  .animate__fadeInUp {
+    animation: fadeInUp 0.5s ease-in-out forwards;
+  }
+  
+  @keyframes fadeInUp {
+    0% {
+      opacity: 0;
+      transform: scale(0.9);
+    }
+    100% {
+      opacity: 1;
+      transform: scale(1);
+    }
+  }
+    
+
+.about-tabs {
+    display: flex;
+    flex-direction: column;
+    /* margin-top: 13px; */
+    gap: 25px;
+  }
+  
+  .about-tab {
+    cursor: pointer;
+    padding: 10px;
+    /* color: #2c3e50; */
+    /* color: #fff; */
+    color: #333333; /* White text color for better contrast */
+    background: transparent;
+    border: none;
+    outline: none;
+    text-align: left;
+    transition: all 1.1s ease-in-out;
+    letter-spacing: 2px;
+  }
+  
+  .about-tab.active {
+    border-bottom: 2px solid #fff;
+    /* text-align: center; */
+    /* transform: scale(1.1); */
+    /* transition: ease 1.1s ; */
+    /* border-bottom-width: 12px; */
+    /* width: fit-content; */
+    /* width: max-content; */
+    /* width: 4px; */
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    /* color: green; */
+    /* color: #2c3e50; */
+    /* color: #ecf0f1; */
+    color: #1A73E8; /* Gold color for active tab text */
+    /* color: #fff; */
+    /* background-color: #1A73E8; */
+    border-bottom: 1px solid #1A73E8;
+    width: fit-content;
+    /* text-indent: 200px; */
+    text-decoration-style: wavy;
+    /* transition: 2s ease-in-out; */
+  }
+  
+  /* ... (rest of the CSS remains the same) */
+.g{
+    color: green;
+}
+
+
+/* Apply styles to an unordered list */
+ul {
+  list-style: none; /* Remove default list bullets */
+  padding: 0;
+}
+
+/* Style list items */
+li {
+  margin-bottom: 2px; /* Add spacing between list items */
+}
+
+/* Add a decorative icon or marker */
+li::before {
+  content: '\2022'; /* Unicode for a bullet point */
+  /* color: #fff; */
+  /* color: #ecf0f1; */
+  color: #4285F4; /* Gold color for bullet points */
+  /* color: #3498db; Set the color of the bullet point */
+  font-size: 1.1em; /* Adjust the size of the bullet point */
+  margin-right: 8px; /* Add space between the bullet point and text */
+}
+
+/* Add hover effect */
+li:hover {
+  /* color: #2980b9; */
+  /* color: #fff; */
+  color: #1A73E8 ;
+  /* color: #e74c3c; Change text color on hover */
+  cursor: pointer;
+  /* color: green; */
+}
+
+.amc{
+  color: #4285F4;
+}
+
+#amc li{
+  margin: 13px;
+  
+}
+
+
+
+/* Apply styles to the introductory paragraph */
+.intro-paragraph {
+  font-family: 'Arial', sans-serif;
+  font-size: 22px;
+  line-height: 1.6;
+  /* color: #ffffff; */
+  color: #333333; /* White text color for better contrast */
+  margin-bottom: 20px;
+}
+
+/* Style the heading */
+.intro-heading {
+  font-family: 'Helvetica', sans-serif;
+  font-size: 32px;
+  font-weight: bold;
+  /* color: #007BFF; Blue color, you can choose your preferred color */
+  margin-bottom: 15px;
+  /* color: #fff; */
+  color: #4285F4; /* White text color for better contrast */
+}
+
+/* Style the creative exploration section */
+.creative-exploration {
+  font-style: italic;
+  /* color: #ffffff; */
+  color: #333333; /* White text color for better contrast */
+}
+
+.amc{
+  /* color: #fff; */
+  color: #333333; /* White text color for better contrast */
+  /* color: #007BFF; Blue color, you can choose your preferred color */
+  font-family: 'Helvetica', sans-serif;
+}
+
+#abh{
+  color: #4285F4;
+}
+

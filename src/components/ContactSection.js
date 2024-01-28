@@ -19,7 +19,7 @@ const ContactSection = () => {
       <Container>
       <Row>
           <Col md={12} className="contact-heading">
-            <h1>Let's Build A Contact</h1>
+            <h1 style={{color:"#4285F4"}}>Let's Build A Contact</h1>
           </Col>
         </Row>
         <Row>

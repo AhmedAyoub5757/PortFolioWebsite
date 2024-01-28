@@ -5,6 +5,7 @@ import navIcon1 from "../assets/img/nav-icon1.svg";
 import { HashLink } from "react-router-hash-link";
 import { BrowserRouter as Router } from "react-router-dom";
 import { BsGithub } from "react-icons/bs";
+// import DarkMode from "./DarkMode";
 
 export const NavBar = () => {
   const [activeLink, setActiveLink] = useState("home");
@@ -51,8 +52,18 @@ export const NavBar = () => {
                 Home
               </Nav.Link>
               <Nav.Link
-                href="#SkillsSlider"
+                href="#aboutme"
                 id="y"
+                className={
+                  activeLink === "aboutme" ? "active navbar-link" : "navbar-link"
+                }
+                onClick={() => onUpdateActiveLink("aboutme")}
+              >
+                About Me
+              </Nav.Link>
+              <Nav.Link
+                href="#SkillsSlider"
+                id="z"
                 className={
                   activeLink === "skills" ? "active navbar-link" : "navbar-link"
                 }
@@ -90,7 +101,11 @@ export const NavBar = () => {
                 {/* <a href="/portfolio">
                   <BsBox />
                 </a> */}
+                {/* <DarkMode/> */}
               </div>
+              {/* <Navbar.Brand  href="/">
+            <DarkMode/>
+          </Navbar.Brand> */}
               <HashLink to="#form">
                 <button className="vvd">
                   <span>Let’s Connect</span>

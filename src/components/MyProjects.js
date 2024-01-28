@@ -12,8 +12,8 @@ const Projects = () => {
 
   return (
     <div className="projects-container">
-      <h2>Projects</h2>
-      <p style={{textAlign:"center"}}>Dive into a showcase of my diverse projects, where technology meets creativity. From crafting interactive chat applications to developing seamless shopping experiences, integrating Google login functionalities, providing versatile PDF and Excel conversion tools, building robust CRUD applications, to designing intuitive image editing platforms and dynamic quiz applications - each project reflects a unique blend of technical expertise and innovation.</p>
+      <h2 style={{color:"#4285F4"}}>Projects</h2>
+      <p style={{textAlign:"center"}}>Explore my tech and creative expertise: interactive apps, seamless shopping, Google login, conversion tools, robust CRUD, image editing, and dynamic quizzes — showcasing a fusion of technical skill and innovation.</p>
       <div className="tab-container">
         <div
           className={`tab ${activeTab === 1 ? 'active' : ''}`}
