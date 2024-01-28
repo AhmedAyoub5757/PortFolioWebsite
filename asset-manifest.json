@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PortFolioWebsite/static/css/main.fcd81c73.css",
-    "main.js": "/PortFolioWebsite/static/js/main.df9d8aea.js",
+    "main.css": "/PortFolioWebsite/static/css/main.8aaf6d83.css",
+    "main.js": "/PortFolioWebsite/static/js/main.bc4d7669.js",
     "static/js/787.861fdc3f.chunk.js": "/PortFolioWebsite/static/js/787.861fdc3f.chunk.js",
     "static/media/banner-bg.jpg": "/PortFolioWebsite/static/media/banner-bg.c150bea65685e0fc6699.jpg",
     "static/media/shopping-website.jpg": "/PortFolioWebsite/static/media/shopping-website.7c1e38046f5ebb78e726.jpg",
@@ -20,12 +20,12 @@
     "static/media/revicons.woff": "/PortFolioWebsite/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/PortFolioWebsite/index.html",
     "static/media/nav-icon1.svg": "/PortFolioWebsite/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
-    "main.fcd81c73.css.map": "/PortFolioWebsite/static/css/main.fcd81c73.css.map",
-    "main.df9d8aea.js.map": "/PortFolioWebsite/static/js/main.df9d8aea.js.map",
+    "main.8aaf6d83.css.map": "/PortFolioWebsite/static/css/main.8aaf6d83.css.map",
+    "main.bc4d7669.js.map": "/PortFolioWebsite/static/js/main.bc4d7669.js.map",
     "787.861fdc3f.chunk.js.map": "/PortFolioWebsite/static/js/787.861fdc3f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fcd81c73.css",
-    "static/js/main.df9d8aea.js"
+    "static/css/main.8aaf6d83.css",
+    "static/js/main.bc4d7669.js"
   ]
 }
